@@ -16,3 +16,8 @@
 </p>
 
 ---
+
+🚀 What I'm Building
+
+🗂️ Task Management Platform — A full-stack collaborative task manager with real-time updates, ML-powered priority suggestions, Elasticsearch-based search, and team velocity analytics. Stack: FastAPI · PostgreSQL · Redis · React · Celery.
+🤖 MultiAgent MultiModal RAG — A multi-agent retrieval system for efficient document-based question answering across text, tables, and images.
