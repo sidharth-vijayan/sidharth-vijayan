@@ -22,3 +22,14 @@
 🗂️ Task Management Platform — A full-stack collaborative task manager with real-time updates, ML-powered priority suggestions, Elasticsearch-based search, and team velocity analytics. Stack: FastAPI · PostgreSQL · Redis · React · Celery.
 
 🤖 MultiAgent MultiModal RAG — A multi-agent retrieval system for efficient document-based question answering across text, tables, and images.
+
+---
+
+## 📖 Currently Learning
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-refining-6366f1?style=flat-square)
+
+---
+
