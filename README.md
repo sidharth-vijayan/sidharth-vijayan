@@ -82,3 +82,13 @@
 </p>
 
 ---
+
+## 🤝 Open Source
+
+I'm actively looking to make meaningful contributions to open source projects — especially in Python, backend tooling, and ML/data pipelines. If you're a maintainer with good-first-issues, I'd love to connect.
+
+---
+
+<p align="center">
+  <em>"The goal is to turn data into information, and information into insight."</em>
+</p>
