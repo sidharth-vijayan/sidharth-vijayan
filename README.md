@@ -87,5 +87,5 @@ I'm actively looking to make meaningful contributions to open source projects â€
 ---
 
 <p align="center">
-  <em>"The goal is to turn data into information, and information into insight."</em>
+  <em>"If you want to win the lottery you have to make the money to buy a ticket."</em>
 </p>
