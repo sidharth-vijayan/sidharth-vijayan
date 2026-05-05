@@ -78,14 +78,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-vijayan&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
----
-
-## 🤝 Open Source
-
-I'm actively looking to make meaningful contributions to open source projects — especially in Python, backend tooling, and ML/data pipelines. If you're a maintainer with good-first-issues, I'd love to connect.
-
----
-
-<p align="center">
-  <em>"If you want to win the lottery you have to make the money to buy a ticket."</em>
-</p>
