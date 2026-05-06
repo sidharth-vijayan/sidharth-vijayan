@@ -9,16 +9,19 @@
   <a href="https://www.linkedin.com/in/sidharthvijayan06">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/sidharthclt12/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=sidharth-vijayan&style=for-the-badge&color=6366f1" alt="Profile Views" />
 </p>
 
 ---
 
-🚀 What I'm Building
+## 🚀 What I'm Building
 
-🗂️ Flowboard — A full-stack collaborative task manager with real-time updates, ML-powered priority suggestions, Elasticsearch-based search, and team velocity analytics. Stack: FastAPI · PostgreSQL · Redis · React · Celery.
+- 🗂️ **[Task Management Platform](https://github.com/sidharth-vijayan)** — A full-stack collaborative task manager with real-time updates, ML-powered priority suggestions, Elasticsearch-based search, and team velocity analytics. Stack: FastAPI · PostgreSQL · Redis · React · Celery.
 
-🤖 PolyRAG — A multi-agent retrieval system for efficient document-based question answering across text, tables, and images.
+- 🤖 **MultiAgent MultiModal RAG** — A multi-agent retrieval system for efficient document-based question answering across text, tables, and images.
 
 ---
 
@@ -40,9 +43,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Platforms**
+**Frameworks & Databases**
 
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -70,11 +72,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharth-vijayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-vijayan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://my-readme-stats-sandy.vercel.app/api?username=sidharth-vijayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://my-readme-stats-sandy.vercel.app/api/top-langs/?username=sidharth-vijayan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-vijayan&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
