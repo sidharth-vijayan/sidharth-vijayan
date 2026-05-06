@@ -72,10 +72,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://my-readme-stats-sandy.vercel.app/api?username=sidharth-vijayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://my-readme-stats-sandy.vercel.app/api/top-langs/?username=sidharth-vijayan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidharth-vijayan&theme=tokyonight" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidharth-vijayan&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidharth-vijayan&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-vijayan&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
