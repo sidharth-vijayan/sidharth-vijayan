@@ -14,13 +14,42 @@
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
-- 🗂️ **flowboard** — A full-stack collaborative task manager with real-time updates, ML-powered priority suggestions, Elasticsearch-based search, and team velocity analytics. Stack: FastAPI · PostgreSQL · Redis · React · Celery.
+### 🤖 PolyRAG
 
-- 🤖 **PolyRAG** — A multi-agent retrieval system for efficient document-based question answering across text, tables, and images.
+**Multi-Agent Retrieval-Augmented Generation System**
+
+Built an advanced RAG framework that leverages multiple specialized AI agents to retrieve, reason over, and synthesize information from text, tables, and images.
+
+**Highlights**
+
+* Multi-agent architecture for intelligent query handling
+* Hybrid retrieval across structured and unstructured data
+* Context-aware document understanding and response generation
+* Source-grounded answers with improved retrieval accuracy
+* Scalable pipeline for enterprise knowledge bases
+
+**Tech Stack:** Python · LLMs · RAG · Vector Databases · FastAPI · Multi-Agent Systems
 
 ---
+
+### 📄 CareerCopilot AI
+
+**AI-Powered Resume Intelligence & ATS Optimization Platform**
+
+Developed a full-stack platform that helps job seekers optimize resumes, improve ATS compatibility, and receive personalized career recommendations using AI.
+
+**Highlights**
+
+* Resume-to-job-description matching and ATS scoring
+* AI-generated feedback and optimization suggestions
+* Keyword gap analysis and skill recommendations
+* Automated cover letter generation
+* Interactive analytics dashboard with resume insights
+
+**Tech Stack:** Next.js · TypeScript · PostgreSQL · Supabase · Prisma · OpenAI API · Tailwind CSS
+
 
 ## 📖 Currently Learning
 
