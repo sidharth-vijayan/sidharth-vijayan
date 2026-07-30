@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Sidharth+%F0%9F%91%8B;Final-year+B.Tech+CSE+(AI+%26+DS)+%40+MIT-WPU;AI+Engineering+Intern+%40+Sparkline;Open+source+contributor;GSSOC+'26)](https://github.com/sidharth-vijayan)
+[![typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Sidharth+%F0%9F%91%8B;Final-year+B.Tech+CSE+(AI+%26+DS)+%40+MIT-WPU;AI+Engineering+Intern+%40+Sparkline;Multiple+IEEE+Publications;Ex+Management+Head+%40+Synapse+AI;Open+source+contributor;GSSOC+'26)](https://github.com/sidharth-vijayan)
 
 [![Profile views](https://komarev.com/ghpvc/?username=sidharth-vijayan&style=for-the-badge&color=8E2DE2&label=HUMANS+DETECTED)](https://github.com/sidharth-vijayan)
 
 </div>
 
-```
+```console
 sidharth@earth:~$ whoami
 > 4th-year B.Tech CSE (AI & DS) undergrad @ MIT-WPU, Pune
 
@@ -23,15 +23,14 @@ sidharth@earth:~$ sudo hire sidharth
 > Permission granted. Scroll down for evidence.
 ```
 
+> [!WARNING]
 > Prolonged exposure to this profile may cause a sudden urge to open a pull request or a job offer. Proceed responsibly.
-
----
 
 ## ⚡ The Lore
 
 ```mermaid
 timeline
-    title Character Development Arc
+    title Journey So Far
     2023-24 : Started B.Tech CSE (AI & DS) @ MIT-WPU, Pune
     2025 : Built AI/ML & full-stack portfolio projects : Went deep on FastAPI, LangChain, RAG
     2026 : AI Engineering Intern @ Sparkline Equipments : 2 IEEE Publications : GSSOC Contributor.
@@ -112,6 +111,10 @@ Developed a full-stack platform that helps job seekers optimize resumes, improve
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthclt12@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sidharthclt12/)
 
-⭐ "If at first you don’t succeed, call it version 1.0"
+<blockquote align="center">
+
+### *"If at first you don't succeed, call it version 1.0"*
+
+</blockquote>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:8E2DE2,100:0f0c29&height=140&section=footer)
