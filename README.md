@@ -1,128 +1,114 @@
-<h1 align="center">Hey, I'm Sidharth 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>3rd Year B.Tech CSE (AI & Data Science) @ MIT-WPU, Pune</em><br/>
-  <em>Passionate about building systems and exploring how data drives real-world decisions.</em>
-</p>
+[![typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Sidharth+%F0%9F%91%8B;3rd-year+B.Tech+CSE+(AI+%26+DS)+%40+MIT-WPU;AI+Engineering+Intern+%40+Sparkline+Equipments;Open+source+contributor+in+training)](https://github.com/sidharth-vijayan)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sidharthvijayan06">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sidharth-vijayan&style=for-the-badge&color=6366f1" alt="Profile Views" />
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=sidharth-vijayan&style=for-the-badge&color=8E2DE2&label=HUMANS+DETECTED)](https://github.com/sidharth-vijayan)
+
+</div>
+
+```
+sidharth@earth:~$ whoami
+> 3rd-year B.Tech CSE (AI & DS) undergrad @ MIT-WPU, Pune
+
+sidharth@earth:~$ cat experience.log
+> [OK]  AI Engineering Intern @ Sparkline Equipments
+> [OK]  Built sparkline-assistant — in-house LLM + RAG system
+> [OK]  Shipped gateway, ingestion, retrieval, agents, tools & routing modules
+> [..]  Contributing to open source across multiple repos
+> [..]  Prepping for SDE/SWE internship season
+
+sidharth@earth:~$ sudo hire sidharth
+> Permission granted. Scroll down for evidence.
+```
+
+> Prolonged exposure to this profile may cause a sudden urge to open a pull request or a job offer. Proceed responsibly.
+
+---
+
+## ⚡ The Lore
+
+```mermaid
+timeline
+    title Character Development Arc
+    2023-24 : Started B.Tech CSE (AI & DS) @ MIT-WPU, Pune
+    2025 : Built AI/ML & full-stack portfolio projects : Went deep on FastAPI, LangChain, RAG
+    2026 : AI Engineering Intern @ Sparkline Equipments : Built sparkline-assistant (gateway, ingestion, retrieval, agents, tools, routing) : Went all-in on open source contributions
+    2027 : Internship season : Boss level unlocked — ???
+```
+
+---
+
+## 💼 Experience
+
+**AI Engineering Intern — Sparkline Equipments**
+Built `sparkline-assistant`, an in-house multi-package LLM + RAG platform spanning gateway, ingestion, retrieval, agents, tools, routing & evaluation components.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 PolyRAG
-
 **Multi-Agent Retrieval-Augmented Generation System**
-
 Built an advanced RAG framework that leverages multiple specialized AI agents to retrieve, reason over, and synthesize information from text, tables, and images.
 
 **Highlights**
-
-* Multi-agent architecture for intelligent query handling
-* Hybrid retrieval across structured and unstructured data
-* Context-aware document understanding and response generation
-* Source-grounded answers with improved retrieval accuracy
-* Scalable pipeline for enterprise knowledge bases
+- Multi-agent architecture for intelligent query handling
+- Hybrid retrieval across structured and unstructured data
+- Context-aware document understanding and response generation
+- Source-grounded answers with improved retrieval accuracy
+- Scalable pipeline for enterprise knowledge bases
 
 **Tech Stack:** Python · LLMs · RAG · Vector Databases · FastAPI · Multi-Agent Systems
 
 ---
 
 ### 📄 CareerCopilot AI
-
 **AI-Powered Resume Intelligence & ATS Optimization Platform**
-
 Developed a full-stack platform that helps job seekers optimize resumes, improve ATS compatibility, and receive personalized career recommendations using AI.
 
 **Highlights**
-
-* Resume-to-job-description matching and ATS scoring
-* AI-generated feedback and optimization suggestions
-* Keyword gap analysis and skill recommendations
-* Automated cover letter generation
-* Interactive analytics dashboard with resume insights
+- Resume-to-job-description matching and ATS scoring
+- AI-generated feedback and optimization suggestions
+- Keyword gap analysis and skill recommendations
+- Automated cover letter generation
+- Interactive analytics dashboard with resume insights
 
 **Tech Stack:** Next.js · TypeScript · PostgreSQL · Supabase · Prisma · OpenAI API · Tailwind CSS
 
+---
 
-## 📖 Currently Learning
+## 🛠️ The Arsenal
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-refining-6366f1?style=flat-square)
+![tech stack](https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,react,postgres,redis,docker,aws,git,github,linux&perline=10)
+
++ LangChain · Scikit-learn · spaCy · Celery · WebSockets · pgvector · Supabase · Prisma · REST APIs
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 Numbers That Go Up
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharth-vijayan&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&show_icons=true)](https://github.com/sidharth-vijayan)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-vijayan&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact&langs_count=8)](https://github.com/sidharth-vijayan)
 
-**Frameworks & Databases**
+[![Streak stats](https://streak-stats.demolab.com?user=sidharth-vijayan&theme=tokyonight&hide_border=true&background=00000000)](https://github.com/sidharth-vijayan)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**ML / Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 The Snake Ate My Commits
 
-<p align="center">
-  <img src="https://my-readme-stats-sandy.vercel.app/api?username=sidharth-vijayan&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://my-readme-stats-sandy.vercel.app/api/top-langs/?username=sidharth-vijayan&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-vijayan&theme=tokyonight&hide_border=true" height="180" />
-</p>
+![contribution snake](https://raw.githubusercontent.com/sidharth-vijayan/sidharth-vijayan/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🐍 Contribution Snake
+## 📡 Get in Touch
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidharth-vijayan/sidharth-vijayan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidharth-vijayan/sidharth-vijayan/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sidharth-vijayan/sidharth-vijayan/output/github-contribution-grid-snake.svg" />
-</picture>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://sidharthvijayan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharthvijayan06)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthclt12@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sidharthclt12/)
 
----
-
-## 🤝 Open Source
-
-I'm actively looking to make meaningful contributions to open source projects — especially in Python, backend tooling, and ML/data pipelines. If you're a maintainer with good-first-issues, I'd love to connect.
-
----
-
-<p align="center">
-  <em>"If you want to win the lottery you have to make the money to buy a ticket."</em>
-</p>
+⭐ "If at first you don’t succeed, call it version 1.0"
