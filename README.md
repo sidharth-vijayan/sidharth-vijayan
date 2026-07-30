@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Sidharth+%F0%9F%91%8B;Final-year+B.Tech+CSE+(AI+%26+DS)+%40+MIT-WPU;AI+Engineering+Intern+%40+Sparkline+Equipments;Open+source+contributor;GSSOC+'26)](https://github.com/sidharth-vijayan)
+[![typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Sidharth+%F0%9F%91%8B;Final-year+B.Tech+CSE+(AI+%26+DS)+%40+MIT-WPU;AI+Engineering+Intern+%40+Sparkline;Open+source+contributor;GSSOC+'26)](https://github.com/sidharth-vijayan)
 
 [![Profile views](https://komarev.com/ghpvc/?username=sidharth-vijayan&style=for-the-badge&color=8E2DE2&label=HUMANS+DETECTED)](https://github.com/sidharth-vijayan)
 
@@ -34,7 +34,7 @@ timeline
     title Character Development Arc
     2023-24 : Started B.Tech CSE (AI & DS) @ MIT-WPU, Pune
     2025 : Built AI/ML & full-stack portfolio projects : Went deep on FastAPI, LangChain, RAG
-    2026 : AI Engineering Intern @ Sparkline Equipments : Built sparkline-assistant (gateway, ingestion, retrieval, agents, tools, routing) : Went all-in on open source contributions : GSSOC Contributor.
+    2026 : AI Engineering Intern @ Sparkline Equipments : 2 IEEE Publications : GSSOC Contributor.
 ```
 
 ---
@@ -105,7 +105,7 @@ Developed a full-stack platform that helps job seekers optimize resumes, improve
 
 ---
 
-## 📡 Establish Contact
+## 📡 Get In Touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://sidharthvijayan.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharthvijayan06)
