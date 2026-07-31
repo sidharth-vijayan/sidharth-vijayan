@@ -14,7 +14,7 @@ sidharth@earth:~$ whoami
 
 sidharth@earth:~$ cat experience.log
 > [OK]  AI Engineering Intern @ Sparkline Equipments
-> [OK]  Built sparkline-assistant — in-house LLM + RAG system
+> [OK]  Built sparkline-ai-assistant — in-house LLM inference + RAG system
 > [OK]  Shipped gateway, ingestion, retrieval, agents, tools & routing modules
 > [..]  Contributing to open source across multiple repos
 > [..]  Looking for AI/ML/SDE internships
@@ -22,9 +22,6 @@ sidharth@earth:~$ cat experience.log
 sidharth@earth:~$ sudo hire sidharth
 > Permission granted. Scroll down for evidence.
 ```
-
-> [!WARNING]
-> Prolonged exposure to this profile may cause a sudden urge to open a pull request or a job offer. Proceed responsibly.
 
 ## ⚡ The Lore
 
